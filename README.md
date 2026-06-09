@@ -146,7 +146,7 @@ npm run dev
 
 ## 🌍 Live Demo
 
-https://biz-brain-nine.vercel.app
+https://biz-brain-nine.vercel.app/
 
 ---
 
